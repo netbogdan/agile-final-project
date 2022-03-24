@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: User Story
-about: Template from the training for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
